@@ -15,6 +15,7 @@ int main(){
     // The area of square is side * side (* is used for multiplication, also known as multiplication operator)
     float area = length_of_square * length_of_square;
 
+    // Printing the area of square. Here, %.2f is used to print the value up to 2 decimal places.
     printf("The area of square is %.2f for length %.2f\n", area, length_of_square);
 
     return 0;
