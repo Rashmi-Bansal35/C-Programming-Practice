@@ -56,12 +56,23 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 11 | Print the month name based on number input (1–12).                           | ✅      |
 | 12 | Simple calculator using switch statement for +, –, *, and /.                 | ✅      |
 
+
+### Iteration and Loop control structure
+| #  | Short Description                                   | Status   |
+|----|-----------------------------------------------------|----------|
+| 1  | Print multiplication table of given number.         | ✅      |
+| 2  | Print sum of odd number from 1 to N.                | ✅      |
+| 3  | Calculate factorial of given number.                | ✅      |
+| 4  | Print sum of the digits of an integer.              | ✅      |
+| ...| ...                                                 | ...      |
+
+
 ## 🏗️ Progress
 
 - [x] Variables, Data Type & Input-Output (10/10)
 - [x] Instructions, Expressions & Operators (8/8)
 - [x] Decision control structure (12/12)
-- In Progress
+- [ ] Iteration & Loop control structure (4/19)
 
 ---
 
