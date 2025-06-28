@@ -64,6 +64,12 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 2  | Print sum of odd number from 1 to N.                | ✅      |
 | 3  | Calculate factorial of given number.                | ✅      |
 | 4  | Print sum of the digits of an integer.              | ✅      |
+| 5  | Find the LCM of two numbers.                        | ✅      |
+| 6  | Find the GCD of two integers.                       | ✅      |
+| 7  | Check if given number is prime using while.         | ✅      |
+| 8  | Reverse the digits of a number..                    | ✅      |
+| 9  | Print the Fibonacci series up to a certain number.  | ✅      |
+| 10 | Check if a number is an Amstrong.                   | ✅      |
 | ...| ...                                                 | ...      |
 
 
@@ -72,7 +78,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Variables, Data Type & Input-Output (10/10)
 - [x] Instructions, Expressions & Operators (8/8)
 - [x] Decision control structure (12/12)
-- [ ] Iteration & Loop control structure (4/19)
+- [ ] Iteration & Loop control structure (10/19)
 
 ---
 
