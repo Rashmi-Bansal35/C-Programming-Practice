@@ -1,5 +1,5 @@
 /*
-Create a program to print the Fibonacci series up to a certain number.
+Create a program to print the Fibonacci series up to a certain number of terms.
 */
 
 #include<stdio.h>
@@ -12,13 +12,13 @@ int main(){
     int n;
 
     // Take input from user
-    printf("Enter no. of terms to print fibonacci: ");
+    printf("Enter no. of terms to print Fibonacci: ");
     scanf("%d", &n);
 
     // Print first two terms
     printf("Fibonacci Series: %d\t%d", t1, t2);
 
-    // Using for loop to print fibonacci
+    // Using while loop to print Fibonacci
     int i = 3;
     while (i <= n){
         printf("\t%d", nextTerm);

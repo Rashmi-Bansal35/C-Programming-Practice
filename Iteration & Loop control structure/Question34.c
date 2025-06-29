@@ -5,7 +5,7 @@ Create a program that computes the sum of the digits of an integer.
 #include<stdio.h>
 
 int main(){
-    // Declare a variable to store a digit
+    // Declare variables to store a number and its duplicate
     int number, duplicate;
 
     // Initialize a variable to store sum of digits

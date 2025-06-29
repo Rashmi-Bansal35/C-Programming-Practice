@@ -1,5 +1,5 @@
 /*
-Write a function that calculates the factorial of a given number.
+Write a program that calculates the factorial of a given number.
 */
 
 #include<stdio.h>
@@ -12,7 +12,7 @@ int main(){
     int factorial = 1;
 
     // Take input from user
-    printf("Enter a number for it's factorial: ");
+    printf("Enter a number for its factorial: ");
     scanf("%d", &num);
 
     // Using for loop to find factorial

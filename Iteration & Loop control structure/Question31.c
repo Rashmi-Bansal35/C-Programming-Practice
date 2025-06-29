@@ -12,7 +12,7 @@ int main(){
     printf("Enter a number to print the table: ");
     scanf("%d", &number);
 
-    // Using for loop to print table
+    // Using for loop to print the table
     for(int i = 1; i < 11; i++){
         printf("%d * %d = %d\n", number, i, number*i);
     }

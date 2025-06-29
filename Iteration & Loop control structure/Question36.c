@@ -5,7 +5,7 @@ Create a program to find the Greatest Common Divisor (GCD) of two integers.
 #include<stdio.h>
 
 int main(){
-    // Declare  two variables to store two values
+    // Declare two variables to store two values
     int num1, num2;
 
     // Take input from user

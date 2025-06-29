@@ -36,6 +36,5 @@ int main(){
         printf("%d is a Prime number.", isPrime);
     }
 
-
     return 0;
 }
