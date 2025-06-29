@@ -67,10 +67,21 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 5  | Find the LCM of two numbers.                        | ✅      |
 | 6  | Find the GCD of two integers.                       | ✅      |
 | 7  | Check if given number is prime using while.         | ✅      |
-| 8  | Reverse the digits of a number..                    | ✅      |
+| 8  | Reverse the digits of a number.                     | ✅      |
 | 9  | Print the Fibonacci series up to a certain number.  | ✅      |
 | 10 | Check if a number is an Amstrong.                   | ✅      |
-| ...| ...                                                 | ...      |
+| 11 | Check if number is Palindrome.                      | ✅      |
+| 12 | Print the following patterns.                       | ✅      |
+| 13 | Program that prompts the user to enter a positive   |         |
+|    | number.                                             | ✅      |
+| 14 | Calculates the sum of all numbers until the user    |         |
+|    | enters 0.                                           | ✅      |
+| 15 | Print table of a number using for loop.             | ✅      |
+| 16 | Check Prime or not using for loop.                  | ✅      |
+| 17 | Print sum of all positive number entered by user..  | ✅      |
+| 18 | Print only even number and user continue for odd.   | ✅      |
+| 19 | Program that continuously reads integers and prints |          | 
+|    | their squares.                                      | ✅      |
 
 
 ## 🏗️ Progress
@@ -78,7 +89,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Variables, Data Type & Input-Output (10/10)
 - [x] Instructions, Expressions & Operators (8/8)
 - [x] Decision control structure (12/12)
-- [ ] Iteration & Loop control structure (10/19)
+- [x] Iteration & Loop control structure (19/19)
 
 ---
 
