@@ -84,13 +84,30 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 |    | their squares.                                      | ✅      |
 
 
+### Function and Recursion
+| #  | Short Description                                            | Status   |
+|----|--------------------------------------------------------------|----------|
+| 1  | Function that print's "Hello, World!".                       | ✅       |
+| 2  | Function that add 4 parameters and returns sum.              | ✅       |
+| 3  | Function that takes an int and return it's square.           | ✅       |
+| 4  | Function that print current date without any parameter.      | ✅       |
+| 5  | Function that take two float values and returns larger value.| ✅       |
+| 6  | Function that modifying an integer inside the function 
+|    | does not change the original integer passed to it.           | ✅       |
+| 7  | Function that takes five int numbers and returns average.    | ✅       |
+| 8  | Fibonacci Series using recursion.                            | ✅       |
+| 9  | Check Palindrome using recursion.                            | ✅       |
+
+
+
 ## 🏗️ Progress
 
 - [x] Variables, Data Type & Input-Output (10/10)
 - [x] Instructions, Expressions & Operators (8/8)
 - [x] Decision control structure (12/12)
 - [x] Iteration & Loop control structure (19/19)
-
+- [x] Function & Recursion (9/9)
+- In Progress
 ---
 
 Feel free to fork this repo or contribute your own solutions!
