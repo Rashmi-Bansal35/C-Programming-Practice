@@ -6,7 +6,7 @@ Welcome! This repository contains my solutions to 100+ C programming questions, 
 
 ## 📚 Challenge Source
 
-These 100+ C programming practice questions are inspired by the [KG Coding Classes YouTube Channel]([https://www.youtube.com/@KGCodingClasses](https://youtu.be/p0QUmC2WJwM?si=WWivfgtK_2qNu_mH)), where this challenge was originally shared.  
+These 100+ C programming practice questions are inspired by the [KG Coding Classes YouTube Channel](https://youtu.be/p0QUmC2WJwM?si=WWivfgtK_2qNu_mH), where this challenge was originally shared.  
 I took on this challenge and solved each problem independently to strengthen my understanding of C programming.
 
 If you’re interested in learning C or want to try the challenge yourself, check out the original video and try solving the problems on your own before reviewing my solutions!
