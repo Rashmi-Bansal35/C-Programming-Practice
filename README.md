@@ -110,6 +110,17 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 4  | Function void minmax(int *a, int *b, int *min, int *max) that assigns the smaller of |          |
 |    | *a and *b to *min, and the larger to *max. Test it in main() with different values.  | ✅      |
 
+
+### Data types & storage classes
+| #  | Short Description                                                                    | Status   |
+|----|--------------------------------------------------------------------------------------|----------|
+| 1  | Convert a large number of kilometers to miles, using long or long long               | ✅      |
+| 2  | Demonstrate the difference in range between long and long long by calculating the    |          |
+|    | factorial of 20.                                                                     | ✅      |
+| 3  | program to show unsigned int wraps to 0 and int overflows after adding 1.            | ✅      |
+
+
+
 ## 🏗️ Progress
 
 - [x] Variables, Data Type & Input-Output (10/10)
@@ -118,6 +129,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Iteration & Loop control structure (19/19)
 - [x] Function & Recursion (9/9)
 - [x] Pointers (4/4)
+- [x] Data types & storage classes (3/3)
 - In Progress
 ---
 
