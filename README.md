@@ -7,6 +7,10 @@ Welcome! This repository contains my solutions to 100+ C programming questions, 
 - `Variables, Data Type & Input-Output/` – Questions about variables, data types, and input/output in C.
 - `Instructions, Expressions & Operators/` – Questions related to instructions, expressions, and operators.
 - `Decision control structure/` – Questions on decision-making structures (if, else, switch, etc.).
+- `Iteration and Loop control structure/` - Questions on loop (for, while, infinite, nested for).
+- `Function and Recursion/` - Questions related to function and recursion.
+- `Pointers/` - Question on initialize pointers and call by reference
+- `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
