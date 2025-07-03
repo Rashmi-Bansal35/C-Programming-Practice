@@ -34,6 +34,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Function and Recursion/` - Questions related to function and recursion.
 - `Pointers/` - Question on initialize pointers and call by reference
 - `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
+- `Arrays/` - Questions on array to search element or for other purpose.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
@@ -58,6 +59,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Function & Recursion (9/9)
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
+- [ ] Arrays (3/10)
 - In Progress
 ---
 
@@ -171,7 +173,13 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 3  | program to show unsigned int wraps to 0 and int overflows after adding 1.            | ✅      |
 
 
-
+### Arrays
+| #  | Short Description                                                                    | Status   |
+|----|--------------------------------------------------------------------------------------|----------|
+| 1  | Find the sum and average of all elements in an array.                                | ✅      |
+| 2  | Find number of occurrences of an element in an array.                                | ✅      |
+| 3  | Find the maximum and minimum element in an array.                                    | ✅      |
+| ...| ...                                                                                  | ...     |
 ## 🤝 Contributing
 
 Contributions are welcome!  
