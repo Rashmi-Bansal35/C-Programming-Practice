@@ -1,15 +1,65 @@
 # C Programming Practice
 
-Welcome! This repository contains my solutions to 100+ C programming questions, organized by topic and progressing from beginner to more than intermediate level.
+Welcome! This repository contains my solutions to 100+ C programming questions, organized by topic and progressing from beginner to more than intermediate level.  Whether you're a student, preparing for interviews, or just looking to improve your C skills, you'll find a wide variety of problems here.
+
+---
+
+## 📚 Challenge Source
+
+These 100+ C programming practice questions are inspired by the [KG Coding Classes YouTube Channel](https://youtu.be/p0QUmC2WJwM?si=WWivfgtK_2qNu_mH), where this challenge was originally shared.  
+I took on this challenge and solved each problem independently to strengthen my understanding of C programming.
+
+If you’re interested in learning C or want to try the challenge yourself, check out the original video and try solving the problems on your own before reviewing my solutions!
+
+---
+
+## 🔍 Topics Covered
+
+- Variables, Data Types & Input/Output
+- Instructions, Expressions & Operators
+- Decision Control Structures
+- Iteration & Loop Control Structures
+- Functions & Recursion
+- Pointers
+- Data Types & Storage Classes
+
+---
 
 ## 📁 Folder Structure
 
 - `Variables, Data Type & Input-Output/` – Questions about variables, data types, and input/output in C.
 - `Instructions, Expressions & Operators/` – Questions related to instructions, expressions, and operators.
 - `Decision control structure/` – Questions on decision-making structures (if, else, switch, etc.).
+- `Iteration and Loop control structure/` - Questions on loop (for, while, infinite, nested for).
+- `Function and Recursion/` - Questions related to function and recursion.
+- `Pointers/` - Question on initialize pointers and call by reference
+- `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
+
+---
+
+## 📝 How to Use
+
+- Browse the folders by topic and select questions to practice.
+- Try solving each problem yourself before checking the solution.
+- Use this repository to practice, revise, or prepare for coding interviews.
+- Fork the repo and add your own solutions if you like!
+
+---
+
+## 🏗️ Progress
+
+- [x] Variables, Data Type & Input-Output (10/10)
+- [x] Instructions, Expressions & Operators (8/8)
+- [x] Decision control structure (12/12)
+- [x] Iteration & Loop control structure (19/19)
+- [x] Function & Recursion (9/9)
+- [x] Pointers (4/4)
+- [x] Data types & storage classes (3/3)
+- In Progress
+---
 
 ## 📝 Questions List
 
@@ -39,6 +89,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 6  | Calculate simple interest.                           | ✅       |
 | 7  | Calculate compound interest.                         | ✅       |
 | 8  | Convert Fahrenheit to Celsius.                       | ✅       |
+
 
 ### Decision control structure
 | #  | Short Description                                                            | Status   |
@@ -121,16 +172,30 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 
 
 
-## 🏗️ Progress
+## 🤝 Contributing
 
-- [x] Variables, Data Type & Input-Output (10/10)
-- [x] Instructions, Expressions & Operators (8/8)
-- [x] Decision control structure (12/12)
-- [x] Iteration & Loop control structure (19/19)
-- [x] Function & Recursion (9/9)
-- [x] Pointers (4/4)
-- [x] Data types & storage classes (3/3)
-- In Progress
+Contributions are welcome!  
+If you have alternative solutions, improvements, or new questions, feel free to submit a pull request.  
+For major changes, please open an issue first to discuss what you would like to change.
+
 ---
 
-Feel free to fork this repo or contribute your own solutions!
+## 📢 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact
+
+For questions or suggestions, open an issue or reach out to [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35).
+
+---
+
+## 🏷️ Topics
+
+`c-programming` `practice` `beginner` `interview-prep` `learning` `problems`
+
+---
+
+*Feel free to fork this repo or contribute your own solutions! Happy coding! 🚀*
