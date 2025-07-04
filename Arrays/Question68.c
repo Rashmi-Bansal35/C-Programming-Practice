@@ -38,7 +38,7 @@ int main(){
     }
 
     // Print the results
-    printf("The minimun element in array is %d.\nThe maximum element in array is %d.", min, max);
+    printf("The minimum element in array is %d.\nThe maximum element in array is %d.", min, max);
 
     return 0;
 }
