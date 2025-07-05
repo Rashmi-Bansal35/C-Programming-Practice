@@ -59,7 +59,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Function & Recursion (9/9)
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
-- [ ] Arrays (3/10)
+- [ ] Arrays (6/10)
 - In Progress
 ---
 
@@ -179,7 +179,11 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 1  | Find the sum and average of all elements in an array.                                | ✅      |
 | 2  | Find number of occurrences of an element in an array.                                | ✅      |
 | 3  | Find the maximum and minimum element in an array.                                    | ✅      |
+| 4  | Check if the given array is sorted.                                                  | ✅      |
+| 5  | Return a new array after deleting a specific element.                                | ✅      |
+| 6  | Reverse an array.                                                                    | ✅      |
 | ...| ...                                                                                  | ...     |
+
 ## 🤝 Contributing
 
 Contributions are welcome!  
