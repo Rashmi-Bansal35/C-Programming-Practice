@@ -2,17 +2,16 @@
 Create a program to check if the given array is sorted.
 */
 
-// NOTE:- This code will only work for array which are sorted in ascending
 #include<stdio.h>
 
 int main(){
     // Declare array
-    int array1[50];
+    int array1[50], array2[50];
 
     // Declare variables
     int n, condition = 0;
 
-    // Take input from user
+    // Take input from suer
     printf("Enter size of array: ");
     scanf("%d", &n);
 
@@ -21,15 +20,21 @@ int main(){
         scanf("%d", &array1[i]);
     }
 
-    // Check if it is sorted in ascending order
-    for(int i = 0; i < n-1; i++){
-        if(array1[i] > array1[i+1]){
-            condition = 1;
-            break;
+    // Check if it is sorted
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j < n; j++){
+            if(array1[i] >= array1[i+1] || array1[i] <= array1[i+1]){
+                continue;
+            } 
+            else{
+                condition = 1;
+                break;
+            }
+            
         }
     }
 
-    if(condition == 1){
+    if(condition = 1){
         printf("The array is not sorted.");
     }
     else{

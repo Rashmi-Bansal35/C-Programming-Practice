@@ -1,7 +1,6 @@
 /*
-Write a C program that initializes an unsigned int to its maximum possible value and an int to a negative number.
-Add 1 to both, and print the results to show how the unsigned int wraps around to 0, whereas the int remains 
-negative due to overflow.
+Write a C program that initializes an unsigned int to its maximum possible value and an int to its minimum value.
+Add 1 to both, and print the results to show how the unsigned int wraps around to 0, whereas the int overflows.
 */
 
 #include<stdio.h>
@@ -13,7 +12,7 @@ int main(){
     // Initialize a variable
     int var2 = -4294967295;
 
-    // Addiging one to both variables
+    // Adding one to both variables
     var1 += 1;
     var2 += 1;
 
