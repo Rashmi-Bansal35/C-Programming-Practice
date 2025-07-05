@@ -1,5 +1,5 @@
 /*
-Create a program to check is the array is palindrome or not.
+Create a program to check if the array is palindrome or not.
 */
 
 #include<stdio.h>

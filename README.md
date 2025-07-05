@@ -59,7 +59,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Function & Recursion (9/9)
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
-- [ ] Arrays (6/10)
+- [x] Arrays (12/12)
 - In Progress
 ---
 
@@ -182,7 +182,12 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 4  | Check if the given array is sorted.                                                  | ✅      |
 | 5  | Return a new array after deleting a specific element.                                | ✅      |
 | 6  | Reverse an array.                                                                    | ✅      |
-| ...| ...                                                                                  | ...     |
+| 7  | Check if the array is palindrome or not.                                             | ✅      |
+| 8  | Function that uses pointer arithmetic to copy an array of char into another.         | ✅      |
+| 9  | Merge two sorted arrays.                                                             | ✅      |
+| 10 | Search an element in a 2-D array.                                                    | ✅      |
+| 11 | Sum and average of all elements in a 2-array.                                        | ✅      |
+| 12 | Sum of two diagonal elements.                                                        | ✅      |
 
 ## 🤝 Contributing
 
