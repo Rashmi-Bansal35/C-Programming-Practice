@@ -35,6 +35,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Pointers/` - Question on initialize pointers and call by reference
 - `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
 - `Arrays/` - Questions on array to search element or for other purpose.
+- `Strings/` - Questions on string and string.h library.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
@@ -60,96 +61,94 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
+- [ ] Strings (3/10)
 - In Progress
 ---
 
 ## 📝 Questions List
 
 ### Variables, Data Type & Input-Output
-| #  | Short Description                                                                         | Status   |
-|----|-------------------------------------------------------------------------------------------|----------|
-| 1  | Patterns just using print statements.                                                     | ✅      |
-| 2  | Patterns using single print statement.                                                    | ✅      |
-| 3  | Input a name and display: “Hello NAME nice to meet you”.                                  | ✅      |
-| 4  | Declare, assign, and display two integer variables.                                       | ✅      |
-| 5  | Declare one variable of each basic type (int, float, double, char) and print their sizes. | ✅      |
-| 6  | Store and display user's first name, last name, and age using proper variable names.      | ✅      |
-| 7  | Input side of a square and calculate its area.                                            | ✅      |
-| 8  | Use constant pi = 3.14159 to calculate the circumference of a circle.                     | ✅      |
-| 9  | Input radius and calculate the area of a circle.                                          | ✅      |
-| 10 | Swap two numbers.                                                                         | ✅      |
+| #  | Short Description                                                                        | Status   |
+|----|------------------------------------------------------------------------------------------|----------|
+| 1  | Patterns just using print statements.                                                    | ✅      |
+| 2  | Patterns using single print statement.                                                   | ✅      |
+| 3  | Input a name and display: “Hello NAME nice to meet you”.                                 | ✅      |
+| 4  | Declare, assign, and display two integer variables.                                      | ✅      |
+| 5  | Declare one variable of each basic type (int, float, double, char) and print their sizes.| ✅      |
+| 6  | Store and display user's first name, last name, and age using proper variable names.     | ✅      |
+| 7  | Input side of a square and calculate its area.                                           | ✅      |
+| 8  | Use constant pi = 3.14159 to calculate the circumference of a circle.                    | ✅      |
+| 9  | Input radius and calculate the area of a circle.                                         | ✅      |
+| 10 | Swap two numbers.                                                                        | ✅      |
 
 
 ### Instructions, Expressions & Operators
-| #  | Short Description                                    | Status   |
-|----|------------------------------------------------------|----------|
-| 1  | Perform all arithmetic operations on two numbers.    | ✅       |
-| 2  | Convert an integer to float and print both values.   | ✅       |
-| 3  | Calculate the product of two floating-point numbers. | ✅       |
-| 4  | Calculate the perimeter of a rectangle.              | ✅       |
-| 5  | Calculate the area of a triangle.                    | ✅       |
-| 6  | Calculate simple interest.                           | ✅       |
-| 7  | Calculate compound interest.                         | ✅       |
-| 8  | Convert Fahrenheit to Celsius.                       | ✅       |
+| #  | Short Description                                                                   | Status   |
+|----|-------------------------------------------------------------------------------------|----------|
+| 1  | Perform all arithmetic operations on two numbers.                                   | ✅       |
+| 2  | Convert an integer to float and print both values.                                  | ✅       |
+| 3  | Calculate the product of two floating-point numbers.                                | ✅       |
+| 4  | Calculate the perimeter of a rectangle.                                             | ✅       |
+| 5  | Calculate the area of a triangle.                                                   | ✅       |
+| 6  | Calculate simple interest.                                                          | ✅       |
+| 7  | Calculate compound interest.                                                        | ✅       |
+| 8  | Convert Fahrenheit to Celsius.                                                      | ✅       |
 
 
 ### Decision control structure
-| #  | Short Description                                                            | Status   |
-|----|------------------------------------------------------------------------------|----------|
-| 1  | Check if a number is positive, negative, or zero.                            | ✅      |
-| 2  | Check if number is even or odd.                                              | ✅      |
-| 3  | Find the greatest among three numbers.                                       | ✅      |
-| 4  | Check if a year is a leap year.                                              | ✅      |
-| 5  | Assign grade based on marks.                                                 | ✅      |
-| 6  | Categorize person based on age.                                              | ✅      |
-| 7  | Find the minimum of two numbers using the ternary operator.                  | ✅      |
-| 8  | Check if a number is even or odd using the ternary operator.                 | ✅      |
-| 9  | Find the absolute value of an integer using the ternary operator.            | ✅      |
-| 10 | Categorize score as "High", "Moderate", or "Low" using the ternary operator. | ✅      |
-| 11 | Print the month name based on number input (1–12).                           | ✅      |
-| 12 | Simple calculator using switch statement for +, –, *, and /.                 | ✅      |
+| #  | Short Description                                                                   | Status   |
+|----|-------------------------------------------------------------------------------------|----------|
+| 1  | Check if a number is positive, negative, or zero.                                   | ✅      |
+| 2  | Check if number is even or odd.                                                     | ✅      |
+| 3  | Find the greatest among three numbers.                                              | ✅      |
+| 4  | Check if a year is a leap year.                                                     | ✅      |
+| 5  | Assign grade based on marks.                                                        | ✅      |
+| 6  | Categorize person based on age.                                                     | ✅      |
+| 7  | Find the minimum of two numbers using the ternary operator.                         | ✅      |
+| 8  | Check if a number is even or odd using the ternary operator.                        | ✅      |
+| 9  | Find the absolute value of an integer using the ternary operator.                   | ✅      |
+| 10 | Categorize score as "High", "Moderate", or "Low" using the ternary operator.        | ✅      |
+| 11 | Print the month name based on number input (1–12).                                  | ✅      |
+| 12 | Simple calculator using switch statement for +, –, *, and /.                        | ✅      |
 
 
 ### Iteration and Loop control structure
-| #  | Short Description                                   | Status   |
-|----|-----------------------------------------------------|----------|
-| 1  | Print multiplication table of given number.         | ✅      |
-| 2  | Print sum of odd number from 1 to N.                | ✅      |
-| 3  | Calculate factorial of given number.                | ✅      |
-| 4  | Print sum of the digits of an integer.              | ✅      |
-| 5  | Find the LCM of two numbers.                        | ✅      |
-| 6  | Find the GCD of two integers.                       | ✅      |
-| 7  | Check if given number is prime using while.         | ✅      |
-| 8  | Reverse the digits of a number.                     | ✅      |
-| 9  | Print the Fibonacci series up to a certain number.  | ✅      |
-| 10 | Check if a number is an Amstrong.                   | ✅      |
-| 11 | Check if number is Palindrome.                      | ✅      |
-| 12 | Print the following patterns.                       | ✅      |
-| 13 | Program that prompts the user to enter a positive   |         |
-|    | number.                                             | ✅      |
-| 14 | Calculates the sum of all numbers until the user    |         |
-|    | enters 0.                                           | ✅      |
-| 15 | Print table of a number using for loop.             | ✅      |
-| 16 | Check Prime or not using for loop.                  | ✅      |
-| 17 | Print sum of all positive number entered by user..  | ✅      |
-| 18 | Print only even number and user continue for odd.   | ✅      |
-| 19 | Program that continuously reads integers and prints |          | 
-|    | their squares.                                      | ✅      |
+| #  | Short Description                                                                   | Status   |
+|----|-------------------------------------------------------------------------------------|----------|
+| 1  | Print multiplication table of given number.                                         | ✅      |
+| 2  | Print sum of odd number from 1 to N.                                                | ✅      |
+| 3  | Calculate factorial of given number.                                                | ✅      |
+| 4  | Print sum of the digits of an integer.                                              | ✅      |
+| 5  | Find the LCM of two numbers.                                                        | ✅      |
+| 6  | Find the GCD of two integers.                                                       | ✅      |
+| 7  | Check if given number is prime using while.                                         | ✅      |
+| 8  | Reverse the digits of a number.                                                     | ✅      |
+| 9  | Print the Fibonacci series up to a certain number.                                  | ✅      |
+| 10 | Check if a number is an Amstrong.                                                   | ✅      |
+| 11 | Check if number is Palindrome.                                                      | ✅      |
+| 12 | Print the following patterns.                                                       | ✅      |
+| 13 | Program that prompts the user to enter a positive number.                           | ✅      |
+| 14 | Calculates the sum of all numbers until the user enters 0.                          | ✅      |
+| 15 | Print table of a number using for loop.                                             | ✅      |
+| 16 | Check Prime or not using for loop.                                                  | ✅      |
+| 17 | Print sum of all positive number entered by user.                                   | ✅      |
+| 18 | Print only even number and user continue for odd.                                   | ✅      |
+| 19 | Program that continuously reads integers and prints their squares.                  | ✅      |
 
 
 ### Function and Recursion
-| #  | Short Description                                            | Status   |
-|----|--------------------------------------------------------------|----------|
-| 1  | Function that print's "Hello, World!".                       | ✅       |
-| 2  | Function that add 4 parameters and returns sum.              | ✅       |
-| 3  | Function that takes an int and return it's square.           | ✅       |
-| 4  | Function that print current date without any parameter.      | ✅       |
-| 5  | Function that take two float values and returns larger value.| ✅       |
-| 6  | Function that modifying an integer inside the function does  |          |
-|    | not change the original integer passed to it.                | ✅       |
-| 7  | Function that takes five int numbers and returns average.    | ✅       |
-| 8  | Fibonacci Series using recursion.                            | ✅       |
-| 9  | Check Palindrome using recursion.                            | ✅       |
+| #  | Short Description                                                                    | Status   |
+|----|--------------------------------------------------------------------------------------|----------|
+| 1  | Function that print's "Hello, World!".                                               | ✅       |
+| 2  | Function that add 4 parameters and returns sum.                                      | ✅       |
+| 3  | Function that takes an int and return it's square.                                   | ✅       |
+| 4  | Function that print current date without any parameter.                              | ✅       |
+| 5  | Function that take two float values and returns larger value.                        | ✅       |
+| 6  | Function that modifying an integer inside the function does not change the original  |          |
+|    | integer passed to it.                                                                | ✅       |
+| 7  | Function that takes five int numbers and returns average.                            | ✅       |
+| 8  | Fibonacci Series using recursion.                                                    | ✅       |
+| 9  | Check Palindrome using recursion.                                                    | ✅       |
 
 
 ### Pointers
@@ -189,6 +188,14 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 11 | Sum and average of all elements in a 2-array.                                        | ✅      |
 | 12 | Sum of two diagonal elements.                                                        | ✅      |
 
+
+### Strings
+| #  | Short Description                                                                    | Status   |
+|----|--------------------------------------------------------------------------------------|----------|
+| 1  | Read a line using fgets and puts.                                                    | ✅      |
+| 2  | Using printf print a date string (day, month, year).                                 | ✅      |
+| 3  | Convert a input string in uppercase.                                                 | ✅      |
+| ...| ...                                                                                  | ...     |
 ## 🤝 Contributing
 
 Contributions are welcome!  
