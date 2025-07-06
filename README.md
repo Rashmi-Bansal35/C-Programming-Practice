@@ -22,6 +22,8 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - Functions & Recursion
 - Pointers
 - Data Types & Storage Classes
+- Arrays
+- Strings
 
 ---
 
