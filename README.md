@@ -37,7 +37,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Pointers/` - Question on initialize pointers and call by reference
 - `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
 - `Arrays/` - Questions on array to search element or for other purpose.
-- `Strings/` - Questions on string and string.h library.
+- `Strings/` - Questions on string, function of strings and string.h library.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
