@@ -1,5 +1,5 @@
 /*
-Create a simple text-based user login system that compares a stored password string using strcmp
+Create a simple text-based user login system that compares a stored password string using strcmp.
 */
 
 #include<stdio.h>
