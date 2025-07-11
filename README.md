@@ -63,7 +63,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
-- [ ] Strings (4/10)
+- [ ] Strings (6/10)
 - In Progress
 ---
 
@@ -139,39 +139,34 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 
 
 ### Function and Recursion
-| #  | Short Description                                                                    | Status   |
-|----|--------------------------------------------------------------------------------------|----------|
-| 1  | Function that print's "Hello, World!".                                               | ✅       |
-| 2  | Function that add 4 parameters and returns sum.                                      | ✅       |
-| 3  | Function that takes an int and return it's square.                                   | ✅       |
-| 4  | Function that print current date without any parameter.                              | ✅       |
-| 5  | Function that take two float values and returns larger value.                        | ✅       |
-| 6  | Function that modifying an integer inside the function does not change the original  |          |
-|    | integer passed to it.                                                                | ✅       |
-| 7  | Function that takes five int numbers and returns average.                            | ✅       |
-| 8  | Fibonacci Series using recursion.                                                    | ✅       |
-| 9  | Check Palindrome using recursion.                                                    | ✅       |
+| #  | Short Description                                                                                          | Status   |
+|----|------------------------------------------------------------------------------------------------------------|----------|
+| 1  | Function that print's "Hello, World!".                                                                     | ✅       |
+| 2  | Function that add 4 parameters and returns sum.                                                            | ✅       |
+| 3  | Function that takes an int and return it's square.                                                         | ✅       |
+| 4  | Function that print current date without any parameter.                                                    | ✅       |
+| 5  | Function that take two float values and returns larger value.                                              | ✅       |
+| 6  | Function that modifying an integer inside the function does not change the original integer passed to it.  | ✅       |
+| 7  | Function that takes five int numbers and returns average.                                                  | ✅       |
+| 8  | Fibonacci Series using recursion.                                                                          | ✅       |
+| 9  | Check Palindrome using recursion.                                                                          | ✅       |
 
 
 ### Pointers
-| #  | Short Description                                                                    | Status   |
-|----|--------------------------------------------------------------------------------------|----------|
-| 1  | Declares an integer variable and a pointer to it. Assign a value and print it using  |          |
-|    |the pointer.                                                                          | ✅      |
-| 2  | Change the value of an integer variable using a pointer and the * operator.          | ✅      |
-| 3  | Declare a char pointer, use it to read a character from the user, and print the      |          |
-|    | character using the  pointer.                                                        | ✅      |
-| 4  | Function void minmax(int *a, int *b, int *min, int *max) that assigns the smaller of |          |
-|    | *a and *b to *min, and the larger to *max. Test it in main() with different values.  | ✅      |
+| #  | Short Description                                                                                                                                                      | Status   |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 1  | Declares an integer variable and a pointer to it. Assign a value and print it using the pointer.                                                                        | ✅      |
+| 2  | Change the value of an integer variable using a pointer and the * operator.                                                                                             | ✅      |
+| 3  | Declare a char pointer, use it to read a character from the user, and print the character using the  pointer.                                                           | ✅      |
+| 4  | Function void minmax(int *a, int *b, int *min, int *max) that assigns the smaller of *a and *b to *min, and the larger to *max. Test it in main() with different values.| ✅      |
 
 
 ### Data types & storage classes
-| #  | Short Description                                                                    | Status   |
-|----|--------------------------------------------------------------------------------------|----------|
-| 1  | Convert a large number of kilometers to miles, using long or long long               | ✅      |
-| 2  | Demonstrate the difference in range between long and long long by calculating the    |          |
-|    | factorial of 20.                                                                     | ✅      |
-| 3  | program to show unsigned int wraps to 0 and int overflows after adding 1.            | ✅      |
+| #  | Short Description                                                                                  | Status   |
+|----|----------------------------------------------------------------------------------------------------|----------|
+| 1  | Convert a large number of kilometers to miles, using long or long long                             | ✅      |
+| 2  | Demonstrate the difference in range between long and long long by calculating the factorial of 20. | ✅      |
+| 3  | program to show unsigned int wraps to 0 and int overflows after adding 1.                          | ✅      |
 
 
 ### Arrays
@@ -198,7 +193,8 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 2  | Using printf print a date string (day, month, year).                                 | ✅      |
 | 3  | Convert a input string in uppercase.                                                 | ✅      |
 | 4  | Simple User login system that compares a stored password string using strcmp.        | ✅      |
-| 5  | Use a 2-D character array to store and display a tic-tac-toe board.                  |         |
+| 5  | Use a 2-D character array to store and display a tic-tac-toe board.                  | ✅      |
+| 6  | Function that takes a string and reverses it in place.                               | ✅      |
 | ...| ...                                                                                  | ...     |
 
 
