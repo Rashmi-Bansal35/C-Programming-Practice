@@ -63,7 +63,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Pointers (4/4)
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
-- [ ] Strings (6/10)
+- [ ] Strings (8/10)
 - In Progress
 ---
 
@@ -195,7 +195,8 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 4  | Simple User login system that compares a stored password string using strcmp.        | ✅      |
 | 5  | Use a 2-D character array to store and display a tic-tac-toe board.                  | ✅      |
 | 6  | Function that takes a string and reverses it in place.                               | ✅      |
-| 7  | A trim function that removes leading and trailing spaces from a string.              |         |
+| 7  | A trim function that removes leading and trailing spaces from a string.              | ✅      |
+| 8  | Checks if a given string is a palindrome.                                            | ✅      |
 | ...| ...                                                                                  | ...     |
 
 
