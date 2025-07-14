@@ -37,7 +37,8 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Pointers/` - Question on initialize pointers and call by reference
 - `Data types & storage classes/` - Questions on another data types (unsigned, long, long long) and difference in them.
 - `Arrays/` - Questions on array to search element or for other purpose.
-- `Strings/` - Questions on string, function of strings and string.h library.
+- `Strings/` - Questions on string, function of strings, some real-life examples (password checker, login etc.) and string.h library.
+- `Structures/` - Questions based on use of structures and why it is better than seperated variables.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
@@ -64,6 +65,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
+- [ ] Structures (1/6)
 - In Progress
 ---
 
@@ -200,6 +202,12 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 9  | Password checker until a valid password is entered using do-while.                         | ✅      |
 | 10 | Program that reads user input in a loop and uses break to exit when the user enters "exit".| ✅      |
 
+
+### Structures
+| #  | Short Description                                                                          | Status   |
+|----|--------------------------------------------------------------------------------------------|----------|
+| 1  | Store and process book details (title, author, price) using structures.                    | ✅      |
+| ...| ...                                                                                        | ...     |
 
 
 ## 🤝 Contributing
