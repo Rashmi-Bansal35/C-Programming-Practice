@@ -65,7 +65,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
-- [ ] Structures (1/6)
+- [ ] Structures (2/6)
 - In Progress
 ---
 
@@ -207,6 +207,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | #  | Short Description                                                                          | Status   |
 |----|--------------------------------------------------------------------------------------------|----------|
 | 1  | Store and process book details (title, author, price) using structures.                    | ✅      |
+| 2  | Initialize an array of Book structures with different data using designated initializers.  | ✅      |
 | ...| ...                                                                                        | ...     |
 
 
