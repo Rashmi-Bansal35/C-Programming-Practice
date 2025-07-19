@@ -65,7 +65,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
-- [ ] Structures (3/6)
+- [ ] Structures (4/6)
 - In Progress
 ---
 
@@ -209,6 +209,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 1  | Store and process book details (title, author, price) using structures.                    | ✅      |
 | 2  | Initialize an array of Book structures with different data using designated initializers.  | ✅      |
 | 3  | Define a Car structure to a function with fields for make, model, year, and color.         | ✅      |
+| 4  | Pass a Car structure to a function that prints out a description of car.                   | ✅      |
 | ...| ...                                                                                        | ...     |
 
 
