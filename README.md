@@ -65,7 +65,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Data types & storage classes (3/3)
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
-- [ ] Structures (5/6)
+- [x] Structures (6/6)
 - In Progress
 ---
 
@@ -211,7 +211,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 3  | Define a Car structure to a function with fields for make, model, year, and color.         | ✅      |
 | 4  | Pass a Car structure to a function that prints out a description of car.                   | ✅      |
 | 5  | Function that takes pointer to a Student structure and modifies the grade.                 | ✅      |
-| ...| ...                                                                                        | ...     |
+| 6  | Function with a Student structure that contains borrowed Book structures (nested struct).  | ✅      |
 
 
 ## 🤝 Contributing
