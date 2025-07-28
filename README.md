@@ -68,7 +68,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
 - [x] Structures (6/6)
-- [ ] Dynamic Memory Allocation (1/5)
+- [ ] Dynamic Memory Allocation (2/5)
 - In Progress
 ---
 
@@ -218,10 +218,11 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 
 
 ### Dynamic Memory Allocation
-| #  | Short Description                                                                          | Status   |
-|----|--------------------------------------------------------------------------------------------|----------|
-| 1  | Program that dynamically allocates memory for a Car structure and frees it at the end.     | ✅      |
-| .. | ...                                                                                        | ...     |
+| #  | Short Description                                                                           | Status   |
+|----|---------------------------------------------------------------------------------------------|----------|
+| 1  | Program that dynamically allocates memory for a Car structure and frees it at the end.      | ✅       |
+| 2  | Program that mallocs an array for N floats and stores user input floats in it.              | ✅       |
+| .. | ...                                                                                         | ...     |
 
 
 ## 🤝 Contributing
