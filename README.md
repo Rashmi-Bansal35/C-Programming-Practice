@@ -25,6 +25,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - Arrays
 - Strings
 - Structures
+- Dynamic Memory Allocation
 ---
 
 ## 📁 Folder Structure
@@ -39,6 +40,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Arrays/` - Questions on array to search element or for other purpose.
 - `Strings/` - Questions on string, function of strings, some real-life examples (password checker, login etc.) and string.h library.
 - `Structures/` - Questions based on use of structures and why it is better than seperated variables.
+- `Dynamic Memory Allocation/` - Questions based on allocating or re-allocating memory to structure, array or variable and how we free memory after using memory.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
@@ -66,6 +68,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
 - [x] Structures (6/6)
+- [ ] Dynamic Memory Allocation (1/5)
 - In Progress
 ---
 
@@ -212,6 +215,13 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 4  | Pass a Car structure to a function that prints out a description of car.                   | ✅      |
 | 5  | Function that takes pointer to a Student structure and modifies the grade.                 | ✅      |
 | 6  | Function with a Student structure that contains borrowed Book structures (nested struct).  | ✅      |
+
+
+### Dynamic Memory Allocation
+| #  | Short Description                                                                          | Status   |
+|----|--------------------------------------------------------------------------------------------|----------|
+| 1  | Program that dynamically allocates memory for a Car structure and frees it at the end.     | ✅      |
+| .. | ...                                                                                        | ...     |
 
 
 ## 🤝 Contributing
