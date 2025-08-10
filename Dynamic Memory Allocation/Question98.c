@@ -7,7 +7,7 @@ remaining numbers.
 #include<stdlib.h>
 
 int main(){
-    // Declare an array
+    // Declare an pointer array
     int *array;
     int size;
 
@@ -24,7 +24,7 @@ int main(){
         return 1;
     }
 
-    printf("Enter %d elements of array: ", size);
+    printf("Enter %d random elements of array: ", size);
     // Take input from user
     for(int i = 0; i < size; i++){
         scanf("%d", &array[i]);

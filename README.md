@@ -68,7 +68,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Arrays (12/12)
 - [x] Strings (10/10)
 - [x] Structures (6/6)
-- [ ] Dynamic Memory Allocation (3/5)
+- [x] Dynamic Memory Allocation (5/5)
 - In Progress
 ---
 
@@ -223,7 +223,9 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 1  | Program that dynamically allocates memory for a Car structure and frees it at the end.      | ✅       |
 | 2  | Program that mallocs an array for N floats and stores user input floats in it.              | ✅       |
 | 3  | Use calloc to allocate and zero-initialize a char array for a sentence.                     | ✅       |
-| .. | ...                                                                                         | ...     |
+| 4  | Allocate memory for a Point struct with x and y, assign values, and free the memory.        | ✅       |
+| 5  | Create an array with calloc, fill it with random numbers, then shrink its size by half using realloc and print the remaining elements.                | ✅       |
+
 
 
 ## 🤝 Contributing
