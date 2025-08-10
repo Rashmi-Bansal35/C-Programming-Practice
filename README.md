@@ -41,6 +41,7 @@ If you’re interested in learning C or want to try the challenge yourself, chec
 - `Strings/` - Questions on string, function of strings, some real-life examples (password checker, login etc.) and string.h library.
 - `Structures/` - Questions based on use of structures and why it is better than seperated variables.
 - `Dynamic Memory Allocation/` - Questions based on allocating or re-allocating memory to structure, array or variable and how we free memory after using memory.
+- `File Input Output` - Questions about reading/writing files, file handling functions, and related concepts.
 
 ## 🚀 Goal
 Solve at least 100 C programming problems covering a wide range of topics from basics to intermediate.
@@ -69,7 +70,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Strings (10/10)
 - [x] Structures (6/6)
 - [x] Dynamic Memory Allocation (5/5)
-- In Progress
+- [ ] File Input Output (2/6)
 ---
 
 ## 📝 Questions List
@@ -227,6 +228,12 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 5  | Create an array with calloc, fill it with random numbers, then shrink its size by half using realloc and print the remaining elements.                | ✅       |
 
 
+### File Input Output
+| #  | Short Description                                                                        | Status   |
+|----|------------------------------------------------------------------------------------------|----------|
+| 1  | Program that prompts for a filename and reports if the file was opened successfully.     | ✅       |
+| 2  | Program to read integers from a file and find their sum."                                | ✅       |
+| ...| ...                                                                                      | ...      |
 
 ## 🤝 Contributing
 
