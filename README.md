@@ -71,7 +71,7 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 - [x] Strings (10/10)
 - [x] Structures (6/6)
 - [x] Dynamic Memory Allocation (5/5)
-- [ ] File Input Output (4/6)
+- [x] File Input Output (6/6)
 ---
 
 ## 📝 Questions List
@@ -235,8 +235,9 @@ Solve at least 100 C programming problems covering a wide range of topics from b
 | 1  | Program that prompts for a filename and reports if the file was opened successfully.     | ✅       |
 | 2  | Program to read integers from a file and find their sum.                                 | ✅       |
 | 3  | Program that copy content of one file to another file.                                   | ✅       |
-| 2  | Program that take input from user and writes it to a file.                               | ✅       |
-| ...| ...                                                                                      | ...      |
+| 4  | Program that take input from user and writes it to a file.                               | ✅       |
+| 5  | Program that appends user input to the end of a log file.                                | ✅       |
+| 6  | Program that performs both reading and writing operations on a file.                     | ✅       |
 
 ## 🤝 Contributing
 
